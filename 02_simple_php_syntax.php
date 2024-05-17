@@ -8,11 +8,11 @@ $hobbies = "Watching amd Sleeping";
 $pet_peeve = "Being kept waiting for a long time.";
 
 // Output the value of the variables
-echo $name, "\n";
-echo $age, "\n";
-echo $address, "\n";
-echo $hobbies, "\n";
-echo $pet_peeve, "\n";
+echo $name, '<br>';
+echo $age, '<br>';
+echo $address, '<br>';
+echo $hobbies, '<br>';
+echo $pet_peeve, '<br>';
 
 //Single-line comment
 $name = "Kien Marl A. Trinidad";
@@ -22,11 +22,11 @@ $address = "BLK 1, Lot 7 Larlin Village Sampaloc Apalit Pampanga ";
 //$pet_peeve = "Being kept waiting for a long time.";
 
 // Output the value of the variables
-echo $name, "\n";
-echo $age, "\n";
-echo $address, "\n";
-//echo $hobbies, "\n";
-//echo $pet_peeve, "\n";
+echo $name,'<br>';
+echo $age, '<br>';
+echo $address, '<br>';
+//echo $hobbies, '<br>';
+//echo $pet_peeve, '<br>';
 
 //Constants
 define('NAME', 'Kien Marl A. Trinidad');
@@ -35,11 +35,11 @@ define('ADDRESS', 'BLK 1, Lot 7 Larlin Village Sampaloc Apalit Pampanga');
 define('HOBBIES', 'Watching amd Sleeping');
 define('PET_PEEVE', 'Being kept waiting for a long time.');
 
-echo NAME, "\n";
-echo AGE, "\n";
-echo ADDRESS, "\n";
-echo HOBBIES, "\n";
-echo PET_PEEVE, "\n";
+echo NAME, '<br>';
+echo AGE, '<br>';
+echo ADDRESS, '<br>';
+echo HOBBIES, '<br>';
+echo PET_PEEVE, '<br>';
 
 //var_dump
 echo '<pre>';
