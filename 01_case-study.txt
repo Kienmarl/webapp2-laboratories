@@ -1,0 +1,7 @@
+Before I address the case study, what qualities should a software engineer have? A software engineer should have a broad understanding of programming languages, data structures, algorithms, and design patterns. And, most importantly, you must be able to communicate effectively with clients and team members.
+
+If I am the Software Engineer, based on the case study that has been given, the first step I will take to avoid malfunctions that have occurred or will occur in a project is;  
+
+Project Preparation: I will ensure that every aspect of the project is consistent with a detailed plan, including the correct time estimate and the target day when the project will be completed.
+
+Effective Communication: I will ensure that team members, stakeholders, and other project partners communicate clearly throughout the project. I will provide regular updates so that I can see whether there is progress in our project, as well as transparent reporting, since if there is no transparency in the work being done, there is a good chance that problems will arise, such as defects in the program not being resolved immediately. Transparency and effective communication with all participating in the project will result in a faster response to problems.
